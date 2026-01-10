@@ -17,7 +17,7 @@ export default function Hero() {
         ZikkiS
       </h1>
       <p className="text-xl md:text-3xl font-bold text-comic-black bg-white inline-block px-6 py-2 border-3 border-comic-black shadow-comic-sm transform rotate-1 rounded-md">
-        AI Artist & Storyteller
+        Comic Book Artist (without AI) & StoryBook with AI
       </p>
     </motion.header>
   )

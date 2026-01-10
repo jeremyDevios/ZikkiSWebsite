@@ -7,14 +7,14 @@ const tiles = [
     title: 'Bandes Dessinées',
     icon: BookOpen,
     color: 'bg-comic-red',
-    description: 'Plongez dans mes univers illustrés.'
+    description: 'Plongez dans ma vie illustrée en BD.'
   },
   {
     id: 'portfolio',
     title: 'Portfolio',
     icon: Palette,
     color: 'bg-comic-blue',
-    description: 'Une sélection de mes meilleures œuvres.'
+    description: 'Une sélection de mes œuvres hors BD.'
   },
   {
     id: 'storybook',

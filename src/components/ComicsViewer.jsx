@@ -33,7 +33,7 @@ export default function ComicsViewer({ images }) {
             initial={{ opacity: 0 }}
             whileInView={{ opacity: 1 }}
             viewport={{ once: true, margin: "200px" }}
-            className="w-full"
+            className={`w-full bg-black ${index < visibleImages.length - 1 ? 'pb-2' : ''}`}
           >
             <img 
               src={img.url} 

@@ -1,4 +1,4 @@
-export const comicsData = Array.from({ length: 26 }, (_, i) => ({
+export const comicsData = Array.from({ length: 27 }, (_, i) => ({
   id: i + 1,
   url: `/comics/book/${i + 1}.jpeg`,
   alt: `Page ${i + 1}`
